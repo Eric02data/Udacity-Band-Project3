@@ -1,6 +1,6 @@
 # Udacity-Band-Project3
 
-##Query A Digital Music Store
+**Query A Digital Music Store**
  
 
 SQL was used to pull the four critical Digital Music Store below:

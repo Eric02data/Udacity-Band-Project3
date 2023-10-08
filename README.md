@@ -2,7 +2,6 @@
 
 **Query A Digital Music Store**
  
-
 SQL was used to pull the four critical Digital Music Store below:
 - Which Employee Recorded The Most Customers?
 - How Much Total Invoice Were Made Per Employee?

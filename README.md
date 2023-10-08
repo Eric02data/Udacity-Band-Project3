@@ -1,4 +1,4 @@
-# Udacity-Band-Project3
+# Udacity-Band-Project 3
 
 **Query A Digital Music Store**
  
